@@ -1,0 +1,33 @@
+.flex {
+    display: flex;
+}
+.inline-block{
+    display: inline-block;
+}
+.f-column{
+    flex-direction: column;
+}
+.f-wrap{
+    flex-wrap: wrap;
+}
+.j-center{
+    justify-content: center;
+}
+.j-between {
+    justify-content: space-between;
+}
+.j-end {
+    justify-content: flex-end;
+}
+.j-around{
+    justify-content: space-around;
+}
+.text-center {
+    text-align: center;
+}
+.a-center {
+    align-items: center;
+}
+.a-end {
+    align-items: flex-end;
+}
